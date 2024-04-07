@@ -6,11 +6,5 @@ spring:
 my:
   property: dev234
 
-# Dynamic configuration setup
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh
-# curl -X POST http://localhost:8081/actuator/refresh
+
   
