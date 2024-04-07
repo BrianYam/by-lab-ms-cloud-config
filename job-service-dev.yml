@@ -4,7 +4,7 @@ spring:
     name: job-service
 
 my:
-  property: dev234
+  property: dev234x
 
 
   
