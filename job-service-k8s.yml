@@ -4,7 +4,7 @@ spring:
     name: job-service
 
 my:
-  property: k8s123
+  property: k8s122
 
 
   
